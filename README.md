@@ -14,7 +14,4 @@ Good Luck!
 
 
 
-
-
-This Game Created By Eitan Schwartz 2021
-Copying this game is illegal.
+Please ignore this repo it's some course final project
